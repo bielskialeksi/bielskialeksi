@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer C/C++/C#
 ------------------
 
-*   🌍  I'm based in Lyon
+*   🌍  I'm based in France,Rhône-Alpes
 *   ✉️  You can contact me at [aleksi.bielski@gmail.com](mailto:aleksi.bielski@gmail.com)
 *   <a href="https://www.github.com/bielskialeksi" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/bielskialeksi?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" />
