@@ -9,7 +9,7 @@ Developer C/C++/C#
 *   <a href="https://www.github.com/bielskialeksi" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/bielskialeksi?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" />
     </a>
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
