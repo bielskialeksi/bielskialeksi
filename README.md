@@ -12,7 +12,7 @@ Developer C/C++/C#
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Colonne gauche : icônes compétences -->
-    <td valign="top" width="60%">
+    <td valign="top" width="40%">
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a></td>
@@ -60,7 +60,7 @@ Developer C/C++/C#
       </table>
     </td>
     <!-- Colonne droite : Top Languages -->
-    <td valign="top" width="40%" align="left">
+    <td valign="top" width="60%" align="left">
       <a href="https://github.com/bielskialeksi">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielskialeksi&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
       </a>
